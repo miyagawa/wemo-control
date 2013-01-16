@@ -1,0 +1,3 @@
+[submodule "Perl-Belkin-WeMo-API"]
+	path = Perl-Belkin-WeMo-API
+	url = git://github.com/ericblue/Perl-Belkin-WeMo-API.git

@@ -1,0 +1,1 @@
+do "wemo-control.pl";
