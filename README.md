@@ -9,7 +9,7 @@ wemo-control is a web app that scans Wemo Switch in your network via UPnP and co
 ## Installation
 
 ```
-git submodule init
+git submodule init && git submodule update
 cpanm ./Perl-Belkin-WeMo-API
 cpanm --installdeps .
 ```
